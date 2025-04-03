@@ -1,0 +1,83 @@
+{
+    "create": {
+      "title": "Guerra Mundial Z",
+      "overview": "Um ex-investigador da ONU percorre o mundo em uma corrida contra o tempo para deter uma pandemia zumbi que ameaça extinguir a humanidade.",
+      "company": "Paramount Pictures",
+      "release_year": 2013,
+      "feature": false,
+      "cover": "images/guerra_mundial_z.png"
+    },
+    "madrugada_dos_mortos": {
+      "title": "Madrugada dos Mortos",
+      "overview": "Um grupo de sobreviventes se refugia em um shopping center para escapar de um apocalipse zumbi.",
+      "company": "Universal Pictures",
+      "release_year": 2004,
+      "feature": false,
+      "cover": "images/madrugada_dos_mortos.png"
+    },
+    "exterminio": {
+      "title": "Extermínio",
+      "overview": "Um vírus altamente contagioso transforma pessoas em criaturas sedentas por sangue, levando a sociedade ao colapso.",
+      "company": "Fox Searchlight Pictures",
+      "release_year": 2002,
+      "feature": false,
+      "cover": "images/exterminio.png"
+    },
+    "noite_dos_mortos_vivos": {
+      "title": "A Noite dos Mortos-Vivos",
+      "overview": "Um grupo de pessoas tenta sobreviver em uma casa isolada enquanto mortos-vivos tentam devorá-los.",
+      "company": "The Walter Reade Organization",
+      "release_year": 1968,
+      "feature": false,
+      "cover": "images/noite_dos_mortos_vivos.png"
+    },
+    "resident_evil": {
+      "title": "Resident Evil: O Hóspede Maldito",
+      "overview": "Uma equipe de elite investiga um laboratório secreto onde um vírus mortal transformou cientistas em zumbis.",
+      "company": "Screen Gems",
+      "release_year": 2002,
+      "feature": false,
+      "cover": "images/resident_evil.png"
+    },
+    "zumbilandia": {
+      "title": "Zumbilândia",
+      "overview": "Em um mundo pós-apocalíptico dominado por zumbis, um grupo improvável de sobreviventes tenta encontrar um refúgio seguro.",
+      "company": "Columbia Pictures",
+      "release_year": 2009,
+      "feature": false,
+      "cover": "images/zumbilandia.png"
+    },
+    "rec": {
+      "title": "REC",
+      "overview": "Uma repórter e seu cinegrafista ficam presos em um prédio em quarentena enquanto seus moradores são infectados por um vírus mortal.",
+      "company": "Filmax International",
+      "release_year": 2007,
+      "feature": false,
+      "cover": "images/rec.png"
+    },
+    "exercito_dos_mortos": {
+      "title": "O Exército dos Mortos",
+      "overview": "Um grupo de mercenários planeja um grande roubo em Las Vegas durante um surto de zumbis.",
+      "company": "Netflix",
+      "release_year": 2021,
+      "feature": false,
+      "cover": "images/exercito_dos_mortos.png"
+    },
+    "fome_animal": {
+      "title": "Fome Animal",
+      "overview": "Uma mordida de um macaco-rato infectado transforma uma pacata cidade em um caos zumbi.",
+      "company": "Trimark Pictures",
+      "release_year": 1992,
+      "feature": false,
+      "cover": "images/fome_animal.png"
+    },
+    "volta_dos_mortos_vivos": {
+      "title": "A Volta dos Mortos Vivos",
+      "overview": "Um vazamento de gás tóxico em um armazém militar faz com que os mortos voltem à vida em busca de cérebros humanos.",
+      "company": "Orion Pictures",
+      "release_year": 1985,
+      "feature": false,
+      "cover": "images/volta_dos_mortos_vivos.png"
+    }
+  }
+  
